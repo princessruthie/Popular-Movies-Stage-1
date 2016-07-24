@@ -12,5 +12,5 @@ Udacity Project 1: Current progress uses httpurlconnection and a homemade POJO. 
 To use this repository:
 * Clone the repo.  
 * Get your own developer API from TMDb.  
-* Add the following line to your gradle.properties file, substituting your own key for ABC123.  (You may have to create the file):  MyMovieDBApiKey="ABC123"
+* Add the following line to your gradle.properties file, substituting your own key for ABC123.  (You may have to create the file):  `MyMovieDBApiKey="ABC123"`
 

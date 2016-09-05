@@ -6,6 +6,8 @@ Udacity Project 1: Current progress uses httpurlconnection and a homemade POJO. 
 
 This app displays a list of Popular or High-Rated movies.  Clicking on any movie leads to a detail view that shows additional information about the movie.
 
+While not perfect, this project is no longer actively maintained.  For that, please see [Popular-Movies-Stage-2](https://github.com/princessruthie/Popular-Movies-Stage-2) 
+
 Pre-requisites
 --------------
 
